@@ -52,9 +52,11 @@ chmod +x identifiers
 
 ## Task 5
 
-```
+```bash
 nano reg
+```
 
+```bash
 #!/bin/bash
 
 if [ -z "$1" ]; then
@@ -67,7 +69,9 @@ cp "$1" /usr/local/bin/
 chmod 755 "/usr/local/bin/$1"
 
 echo "$1 registered successfully"
+```
 
+```bash
 chmod +x reg
 
 ./reg banner
