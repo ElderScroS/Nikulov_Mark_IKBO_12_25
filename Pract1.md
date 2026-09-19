@@ -85,7 +85,9 @@ chmod +x reg
 ./reg banner
 
 banner "Hello"
-```## Task 6
+```
+
+## Task 6
 
 ```bash
 nano check_comments
