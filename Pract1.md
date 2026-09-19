@@ -1,5 +1,3 @@
-# Practice
-
 ## Task 1
 
 ```
